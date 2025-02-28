@@ -61,6 +61,10 @@ DBank/
 6. **Access the Frontend:**
    Open the generated URL in your browser after deployment.
 
+## 📸 Preview
+
+<img src="https://github.com/Sumitchouhan774/D_Bank/blob/main/src/Bank_frontend/assets/preview.png" height="300" width="auto"/>   
+
 ## 🤝 Contributing
 
 Feel free to contribute by submitting issues, feature requests, or pull requests. Let's make **DBank** even better! 🚀
